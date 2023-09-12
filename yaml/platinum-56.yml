@@ -1,0 +1,91 @@
+---
+id: pl1-56
+name: Monferno
+supertype: Pokémon
+subtypes:
+- Stage 1
+level: '27'
+hp: '80'
+types:
+- Fire
+evolvesFrom: Chimchar
+evolvesTo:
+- Infernape
+attacks:
+- name: Fire Tail Slap
+  cost:
+  - Fire
+  convertedEnergyCost: 1
+  damage: '40'
+  text: Flip a coin. If tails, discard a Fire Energy attached to Monferno.
+- name: Paralyzing Gaze
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+weaknesses:
+- type: Water
+  value: "+20"
+set:
+  id: pl1
+  name: Platinum
+  series: Platinum
+  printedTotal: 127
+  total: 133
+  legalities:
+    unlimited: Legal
+  ptcgoCode: PL
+  releaseDate: 2009/02/11
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/pl1/symbol.png
+    logo: https://images.pokemontcg.io/pl1/logo.png
+number: '56'
+artist: Kouki Saitou
+rarity: Uncommon
+flavorText: It skillfully control the intensity of the fire on its tail to keep its
+  foes at an ideal distance.
+nationalPokedexNumbers:
+- 391
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl1/56.png
+  large: https://images.pokemontcg.io/pl1/56_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl1-56
+  updatedAt: 2023/09/11
+  prices:
+    normal:
+      low: 0.2
+      mid: 0.73
+      high: 1.62
+      market: 0.72
+      directLow: 0.29
+    reverseHolofoil:
+      low: 0.7
+      mid: 1.6
+      high: 5.89
+      market: 5.89
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl1-56
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 0.32
+    lowPrice: 0.05
+    trendPrice: 0.35
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 4.95
+    reverseHoloLow: 0.6
+    reverseHoloTrend: 3.14
+    lowPriceExPlus: 0.1
+    avg1: 0.19
+    avg7: 0.31
+    avg30: 0.51
+    reverseHoloAvg1: 4.95
+    reverseHoloAvg7: 2.63
+    reverseHoloAvg30: 1.95

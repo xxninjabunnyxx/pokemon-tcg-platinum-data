@@ -1,0 +1,93 @@
+---
+id: pl1-70
+name: Chimchar
+supertype: Pokémon
+subtypes:
+- Basic
+level: '10'
+hp: '50'
+types:
+- Fire
+evolvesTo:
+- Monferno
+attacks:
+- name: Bite
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Fire Punch
+  cost:
+  - Fire
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Water
+  value: "+10"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl1
+  name: Platinum
+  series: Platinum
+  printedTotal: 127
+  total: 133
+  legalities:
+    unlimited: Legal
+  ptcgoCode: PL
+  releaseDate: 2009/02/11
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/pl1/symbol.png
+    logo: https://images.pokemontcg.io/pl1/logo.png
+number: '70'
+artist: Kouki Saitou
+rarity: Common
+flavorText: It is very agile. Before going to sleep, it extinguishes the flame on
+  its tail to prevent fires.
+nationalPokedexNumbers:
+- 390
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl1/70.png
+  large: https://images.pokemontcg.io/pl1/70_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl1-70
+  updatedAt: 2023/09/11
+  prices:
+    normal:
+      low: 0.1
+      mid: 0.37
+      high: 1.66
+      market: 0.39
+      directLow: 0.17
+    reverseHolofoil:
+      low: 0.69
+      mid: 1.28
+      high: 3.49
+      market: 2.26
+      directLow: 1.31
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl1-70
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 0.09
+    lowPrice: 0.02
+    trendPrice: 0.05
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 3.29
+    reverseHoloLow: 0.1
+    reverseHoloTrend: 3.43
+    lowPriceExPlus: 0.02
+    avg1: 0.05
+    avg7: 0.08
+    avg30: 0.15
+    reverseHoloAvg1: 3.0
+    reverseHoloAvg7: 3.27
+    reverseHoloAvg30: 1.92
